@@ -1,0 +1,46 @@
+button,
+div,
+form,
+input {
+    margin: 5px;
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+label {
+    color: #fff;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+body,
+html {
+    background-image: url("../images/cornflakes.jpg");
+    font-family: 'Baloo Chettan';
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#cereal {
+    background-image: url("../images/cornflakes.jpg");
+    font-family: 'Baloo Chettan';
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* height: 100%; */
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+}
